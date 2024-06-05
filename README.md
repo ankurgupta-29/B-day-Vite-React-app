@@ -9,26 +9,31 @@ Currently, two official plugins are available:
 
 # B-day-Vite-React-app
 
-# B'DAY Vite+React app
 
+## Run Locally
 
-# Clone the repository:
-
-git clone https://github.com/ankurgupta-29/B-day-Vite-React-app.git
-
-# Install dependencies:
-npm install
-
-# Start the development server:
-npm run dev
-
-    
-## Deployment
-
-To deploy this project run
+Clone the project
 
 ```bash
-  npm run deploy
+  git clone https://github.com/ankurgupta-29/B-day-Vite-React-app.git
+```
+
+Go to the project directory
+
+```bash
+  cd B-day-Vite-React-app
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
 ```
 
 ## Demo
