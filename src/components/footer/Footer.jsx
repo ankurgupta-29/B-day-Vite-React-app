@@ -6,7 +6,7 @@ function Footer() {
         <footer className="footer">
             <section className="flex justify-center items-center">
                 <a
-                    href="https://github.com"  // Use the actual URL or replace with your desired link
+                    href="https://github.com/ankurgupta-29/B-day-Vite-React-app.git"  // Use the actual URL or replace with your desired link
                     className="button-icon group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#310413]"
                     target="_blank"
                     rel="noopener noreferrer"
